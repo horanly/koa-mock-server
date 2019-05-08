@@ -2,47 +2,7 @@
 module.exports = {
     "msg": "",
     "result": {
-        "homeworkList": [{
-            "publishTime": "10:27:55",
-            "publishDate": "2019-5-8 10:27:55",
-            "typeName": "按教材Card作业",
-            "typeId": 7,
-            "id": "4985cf0e275d4d9f9856e4bf4b1f46ba",
-            "title": "05月08日按教材Card作业",
-            "status": 0
-        }, {
-            "publishTime": "10:27:20",
-            "publishDate": "2019-5-8 10:27:20",
-            "typeName": "按教材Card作业",
-            "typeId": 7,
-            "id": "1e4430291f8747c4a4ccc4fa2236ac44",
-            "title": "05月08日按教材Card作业",
-            "status": 0
-        }, {
-            "publishTime": "15:31:45",
-            "publishDate": "2019-3-4 15:31:45",
-            "typeName": "精读作业",
-            "typeId": 4,
-            "id": "5dd296a6e59549558f215d0d2f031ce0",
-            "title": "ggggg",
-            "status": 0
-        }, {
-            "publishTime": "11:14:42",
-            "publishDate": "2019-3-4 11:14:42",
-            "typeName": "精读作业",
-            "typeId": 4,
-            "id": "b0b188bd7d24471681c5e76e21764cbb",
-            "title": "bbbbb",
-            "status": 0
-        }, {
-            "publishTime": "11:13:34",
-            "publishDate": "2019-3-4 11:13:34",
-            "typeName": "精读作业",
-            "typeId": 4,
-            "id": "019c172c1b1541b4a52fb76a0942c0c0",
-            "title": "ssssssss",
-            "status": 0
-        }, {
+        "homeworkList": [ {
             "publishTime": "10:14:25",
             "publishDate": "2019-03-01 10:14:25",
             "typeName": "组卷式测验",
