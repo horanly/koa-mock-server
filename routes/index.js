@@ -12,9 +12,9 @@ router.get('/string', async (ctx, next) => {
   ctx.body = 'koa2 string'
 })
 
-router.get('/api/homeworkList', async (ctx, next) => {
+router.get('/api/homework/getHomeworkForStudent', async (ctx, next) => {
   ctx.body = {
-    data
+    ...data
   }
 })
 
